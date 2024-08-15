@@ -1,0 +1,142 @@
+240813T143225.908 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Debug log transferred from system to the KSPDev
+240813T143225.921 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] File 'D:\Games and co\Games\KSP instances\KSP Dev Install\GameData\KSPDev\LogConsole\Plugins\PluginData\session.cfg' does not exist
+240813T143227.483 [EXCEPTION] [KSPCommunityFixes.Performance.KSPCFFastLoader.GameDatabase_SetupMainLoaders_Prefix] Exception: Terminating stock loader coroutine, this is intended and not an error
+   at KSPCommunityFixes.Performance.KSPCFFastLoader.GameDatabase_SetupMainLoaders_Prefix () (at C:/Users/Got/source/repos/KSPModdingLibs/KSPCommunityFixes/KSPCommunityFixes/Performance/FastLoader.cs:238)
+   at (wrapper dynamic-method) GameDatabase.GameDatabase.SetupMainLoaders_Patch1(GameDatabase)
+   at GameDatabase+<LoadObjects>d__90.MoveNext () (at <4b449f2841f84227adfaad3149c8fdba>:0)
+   at UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <12e76cd50cc64cf19e759e981cb725af>:0)
+   at UnityEngine.DebugLogHandler:LogException(Exception, Object)
+   at ModuleManager.UnityLogHandle.InterceptLogHandler:LogException(Exception, Object)
+   at UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+   at <CreateDatabase>d__71:MoveNext()
+   at UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+   at GameDatabase:StartLoad()
+   at <LoadSystems>d__11:MoveNext()
+   at UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+   at LoadingScreen:Start()
+240813T143247.632 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] ADDON BINDER: Cannot resolve assembly: MiniAVC.XmlSerializers, Culture=neutral, PublicKeyToken=null
+240813T143247.636 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] ADDON BINDER: Cannot resolve assembly: MiniAVC.XmlSerializers, Culture=neutral, PublicKeyToken=null
+240813T143247.643 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] ADDON BINDER: Cannot resolve assembly: MiniAVC.XmlSerializers
+240813T143250.779 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Texture isn't eligible for DXT compression, width and height must be multiples of 4
+240813T143250.811 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Texture isn't eligible for DXT compression, width and height must be multiples of 4
+240813T143250.820 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Texture isn't eligible for DXT compression, width and height must be multiples of 4
+240813T143250.833 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Texture isn't eligible for DXT compression, width and height must be multiples of 4
+240813T143250.844 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Texture isn't eligible for DXT compression, width and height must be multiples of 4
+240813T143250.854 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Texture isn't eligible for DXT compression, width and height must be multiples of 4
+240813T143250.866 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Texture isn't eligible for DXT compression, width and height must be multiples of 4
+240813T143250.881 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Texture isn't eligible for DXT compression, width and height must be multiples of 4
+240813T143250.890 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Texture isn't eligible for DXT compression, width and height must be multiples of 4
+240813T143250.899 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Texture isn't eligible for DXT compression, width and height must be multiples of 4
+240813T143304.112 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Texture isn't eligible for DXT compression, width and height must be multiples of 4
+240813T143307.530 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.531 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.893 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.894 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.898 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.899 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.902 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.903 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.907 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.907 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.920 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.921 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.924 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.925 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.934 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.935 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.937 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.938 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.948 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.948 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.963 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143307.964 [WARNING] [UnityEngine.GameObject.Internal_AddComponentWithType] WheelCollider requires an attached Rigidbody to function.
+240813T143336.760 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Effect definitions already contains an effect with node name of 'ROCSAUDIO'
+240813T143336.763 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Effect definitions already contains an effect with node name of 'ANIMATION'
+240813T143336.767 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Effect definitions already contains an effect with node name of 'AUDIO'
+240813T143336.771 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Effect definitions already contains an effect with node name of 'AUDIO_LOOP'
+240813T143336.775 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Effect definitions already contains an effect with node name of 'AUDIO_MULTI'
+240813T143336.778 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Effect definitions already contains an effect with node name of 'AUDIO_MULTI_POOL'
+240813T143336.783 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Effect definitions already contains an effect with node name of 'AUDIO_SINGLE'
+240813T143336.788 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Effect definitions already contains an effect with node name of 'MODEL_ANIMATION'
+240813T143336.793 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Effect definitions already contains an effect with node name of 'MODEL_MULTI_PARTICLE'
+240813T143336.798 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Effect definitions already contains an effect with node name of 'MODEL_PARTICLE'
+240813T143336.801 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Effect definitions already contains an effect with node name of 'PARTICLE_CONFIG'
+240813T143336.805 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Effect definitions already contains an effect with node name of 'PREFAB_ANIMATION'
+240813T143336.808 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Effect definitions already contains an effect with node name of 'PREFAB_MULTI_PARTICLE'
+240813T143336.812 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Effect definitions already contains an effect with node name of 'PREFAB_PARTICLE'
+240813T143336.815 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Effect definitions already contains an effect with node name of 'PREFAB_SPAWN'
+240813T143336.895 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] Cannot find a PartModule of typename 'TweakScale'
+240813T143337.001 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] PartLoader Warning: Variable refArea not found in Part
+240813T143337.144 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] PartLoader Warning: Variable refArea not found in Part
+240813T143340.819 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [Part]: Cannot have ModuleCargoPart and ModuleInventoryPart on same Part [cargoContainer'. Removed ModuleCargoPart
+240813T143340.871 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [Part]: Cannot have ModuleCargoPart and ModuleInventoryPart on same Part [smallCargoContainer'. Removed ModuleCargoPart
+240813T143341.226 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [Part]: Cannot have ModuleCargoPart and ModuleInventoryPart on same Part [CargoStorageUnit'. Removed ModuleCargoPart
+240813T143341.266 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [Part]: Cannot have ModuleCargoPart and ModuleInventoryPart on same Part [ConformalStorageUnit'. Removed ModuleCargoPart
+240813T143341.643 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [Part]: Cannot have ModuleCargoPart and ModuleInventoryPart on same Part [Mark1Cockpit'. Removed ModuleCargoPart
+240813T143341.694 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [Part]: Cannot have ModuleCargoPart and ModuleInventoryPart on same Part [MK1CrewCabin'. Removed ModuleCargoPart
+240813T143341.745 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [Part]: Cannot have ModuleCargoPart and ModuleInventoryPart on same Part [Mark2Cockpit'. Removed ModuleCargoPart
+240813T143341.803 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [Part]: Cannot have ModuleCargoPart and ModuleInventoryPart on same Part [landerCabinSmall'. Removed ModuleCargoPart
+240813T143341.862 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [Part]: Cannot have ModuleCargoPart and ModuleInventoryPart on same Part [mk1pod.v2'. Removed ModuleCargoPart
+240813T143341.924 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [Part]: Cannot have ModuleCargoPart and ModuleInventoryPart on same Part [mk2Cockpit.Inline'. Removed ModuleCargoPart
+240813T143341.999 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [Part]: Cannot have ModuleCargoPart and ModuleInventoryPart on same Part [mk2Cockpit.Standard'. Removed ModuleCargoPart
+240813T143342.101 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [Part]: Cannot have ModuleCargoPart and ModuleInventoryPart on same Part [mk2LanderCabin'. Removed ModuleCargoPart
+240813T143342.168 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [Part]: Cannot have ModuleCargoPart and ModuleInventoryPart on same Part [mk2LanderCabin.v2'. Removed ModuleCargoPart
+240813T143354.832 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [Part]: Cannot have ModuleCargoPart and ModuleInventoryPart on same Part [mk2CrewCabin'. Removed ModuleCargoPart
+240813T143410.050 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ROCScenario'
+240813T143410.052 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'AlarmClockScenario'
+240813T143410.054 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'PartUpgradeManager'
+240813T143410.056 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ResourceScenario'
+240813T143410.057 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'Funding'
+240813T143410.058 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ScenarioNewGameIntro'
+240813T143410.060 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ProgressTracking'
+240813T143410.061 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ResearchAndDevelopment'
+240813T143410.062 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'VesselRecovery'
+240813T143410.064 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'Reputation'
+240813T143410.065 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'KerbalInventoryScenario'
+240813T143410.066 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ScenarioAchievements'
+240813T143410.068 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ScenarioCustomWaypoints'
+240813T143410.070 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ScenarioDestructibles'
+240813T143410.071 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ScenarioDiscoverableObjects'
+240813T143410.072 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ScenarioUpgradeableFacilities'
+240813T143410.076 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'StrategySystem'
+240813T143410.077 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ScenarioContractEvents'
+240813T143410.079 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ContractSystem'
+240813T143410.081 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'SentinelScenario'
+240813T143410.082 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'CommNetScenario'
+240813T143410.086 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'MissionSystem'
+240813T143410.113 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] File 'D:/Games and co/Games/KSP instances/KSP Dev Install/KSP_x64_Data/../Missions/MissionScoreInfo.cfg' does not exist
+240813T143432.528 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ROCScenario'
+240813T143432.531 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'AlarmClockScenario'
+240813T143432.534 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'PartUpgradeManager'
+240813T143432.537 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ResourceScenario'
+240813T143432.539 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'Funding'
+240813T143432.542 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ScenarioNewGameIntro'
+240813T143432.544 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ProgressTracking'
+240813T143432.548 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ResearchAndDevelopment'
+240813T143432.550 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'VesselRecovery'
+240813T143432.552 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'Reputation'
+240813T143432.554 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'KerbalInventoryScenario'
+240813T143432.556 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ScenarioAchievements'
+240813T143432.559 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ScenarioCustomWaypoints'
+240813T143432.562 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ScenarioDestructibles'
+240813T143432.565 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ScenarioDiscoverableObjects'
+240813T143432.568 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ScenarioUpgradeableFacilities'
+240813T143432.572 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'StrategySystem'
+240813T143432.574 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ScenarioContractEvents'
+240813T143432.578 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'ContractSystem'
+240813T143432.580 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'SentinelScenario'
+240813T143432.583 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'CommNetScenario'
+240813T143432.587 [ERROR] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] [ScenarioTypes]: Loaded Scenario definitions already contains a scenario with name 'MissionSystem'
+240813T143504.639 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] HighlightingSystem : Framebuffer depth data is not available and can't be used to occlude highlighting. Highlighting occluders enabled.
+240813T143538.971 [EXCEPTION] [BeamedPowerStandalone.WirelessReceiver.Start] NullReferenceException: Object reference not set to an instance of an object
+   at BeamedPowerStandalone.WirelessReceiver.Start () (at D:/Games and co/Custom Game Files/ProgrammerFailure/KSP-Beamed-Power-Standalone-mod/BeamedPowerReceiver.cs:68)
+   at UnityEngine.DebugLogHandler:LogException(Exception, Object)
+   at ModuleManager.UnityLogHandle.InterceptLogHandler:LogException(Exception, Object)
+   at UnityEngine.Debug:CallOverridenDebugHandler(Exception, Object)
+240813T143550.663 [EXCEPTION] [BeamedPowerStandalone.WirelessReceiver.SetLocalization] NullReferenceException: Object reference not set to an instance of an object
+   at BeamedPowerStandalone.WirelessReceiver.SetLocalization () (at D:/Games and co/Custom Game Files/ProgrammerFailure/KSP-Beamed-Power-Standalone-mod/BeamedPowerReceiver.cs:119)
+   at BeamedPowerStandalone.WirelessReceiver.Start () (at D:/Games and co/Custom Game Files/ProgrammerFailure/KSP-Beamed-Power-Standalone-mod/BeamedPowerReceiver.cs:82)
+   at UnityEngine.DebugLogHandler:LogException(Exception, Object)
+   at ModuleManager.UnityLogHandle.InterceptLogHandler:LogException(Exception, Object)
+   at UnityEngine.Debug:CallOverridenDebugHandler(Exception, Object)
+240813T143642.055 [WARNING] [ModuleManager.UnityLogHandle.InterceptLogHandler.LogFormat] File 'D:\Games and co\Games\KSP instances\KSP Dev Install\GameData\KSPDev\LogConsole\Plugins\PluginData\session.cfg' does not exist
